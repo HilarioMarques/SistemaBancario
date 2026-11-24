@@ -11,7 +11,7 @@ MENU = """
 4 - Sacar
 5 - Transferir
 6 - Consultar saldo
-0 - Sair
+0 - Sair do banco
 """
 
 
