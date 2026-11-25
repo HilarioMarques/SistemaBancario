@@ -5,7 +5,7 @@ from conta import SaldoInsuficienteError
 
 MENU = """
 ===== EMULADOR DE UM SISTEMA BANCÁRIO =====
-1 - Cadastrar cliente
+1 - Cadastrar cliente do banco
 2 - Abrir conta bancária do cliente
 3 - Depositar
 4 - Sacar
