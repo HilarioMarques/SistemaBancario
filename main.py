@@ -7,8 +7,8 @@ MENU = """
 ===== EMULADOR DE UM SISTEMA BANCÁRIO =====
 1 - Cadastrar cliente
 2 - Abrir conta
-3 - Depositar
-4 - sacar money
+3 - Colocar o Money
+4 - Sacar
 5 - Transferir
 6 - Consultar saldo bancário
 0 - Sair
