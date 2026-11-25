@@ -8,7 +8,7 @@ MENU = """
 1 - Cadastrar cliente
 2 - Abrir conta
 3 - Depositar
-4 - Sacar
+4 - sacar money
 5 - Transferir
 6 - Consultar saldo bancário
 0 - Sair
