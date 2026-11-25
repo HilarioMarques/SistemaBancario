@@ -10,7 +10,7 @@ MENU = """
 3 - Depositar
 4 - Sacar
 5 - Transferir
-6 - Consultar saldo
+6 - Consultar saldo bancário
 0 - Sair
 """
 
