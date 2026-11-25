@@ -2,7 +2,7 @@
 
 
 class SaldoInsuficienteError(Exception):
-    """Lançada quando o saque excede o valor disponível."""
+    """Enviada quando o saque excede o valor disponível."""
 
 
 class Conta:
