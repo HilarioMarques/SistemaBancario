@@ -10,8 +10,8 @@ MENU = """
 3 - Colocar o Money
 4 - Sacar
 5 - Transferir
-6 - Consultar saldo 
-0 - Sair do banco
+6 - Consultar saldo bancário
+0 - Sair
 """
 
 
